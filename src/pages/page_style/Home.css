@@ -1,0 +1,27 @@
+.home_page header {
+  background-image: url(../../assets/18.jpg);
+  background-size: cover;
+  height: 90vh;
+  background-position: center;
+}
+
+header h1 {
+  font-size: 3.8rem;
+}
+
+header h1,
+header h2 {
+  text-shadow: 2px 2px 8px rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 770px) {
+  header h1 {
+    font-size: 3.5rem;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  header h1 {
+    font-size: 3rem;
+  }
+}
