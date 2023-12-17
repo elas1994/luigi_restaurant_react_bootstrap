@@ -1,12 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const MenuBtn = () => {
+const MenuBtn = (props) => {
   return (
     <div>
-      <Link to="/luigi_restaurant_react_bootstrap/menu">
-        <button className=" btn btn-success btn-me " type="button">
-          Our Menu
+      <Link to={props.link}>
+        <button
+          className={` ${props.btnType} btn fw-semibold btn-me`}
+          type="button"
+        >
+          {props.text}
         </button>
       </Link>
     </div>
