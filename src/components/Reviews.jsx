@@ -25,11 +25,9 @@ const Reviews = () => {
             <CardBody>
               <div className="p-4">
                 <CardText>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Praesentium maxime veritatis consectetur corrupti excepturi
-                    molestias.
-                  </p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Praesentium maxime veritatis consectetur corrupti excepturi
+                  molestias.
                 </CardText>
               </div>
             </CardBody>
@@ -51,11 +49,9 @@ const Reviews = () => {
             <CardBody>
               <div className="p-4">
                 <CardText>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Praesentium maxime veritatis consectetur corrupti excepturi
-                    molestias.
-                  </p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Praesentium maxime veritatis consectetur corrupti excepturi
+                  molestias.
                 </CardText>
               </div>
             </CardBody>
@@ -77,11 +73,9 @@ const Reviews = () => {
             <CardBody>
               <div className="p-4">
                 <CardText>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Praesentium maxime veritatis consectetur corrupti excepturi
-                    molestias.
-                  </p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Praesentium maxime veritatis consectetur corrupti excepturi
+                  molestias.
                 </CardText>
               </div>
             </CardBody>
@@ -103,11 +97,9 @@ const Reviews = () => {
             <CardBody>
               <div className="p-4">
                 <CardText>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Praesentium maxime veritatis consectetur corrupti excepturi
-                    molestias.
-                  </p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Praesentium maxime veritatis consectetur corrupti excepturi
+                  molestias.
                 </CardText>
               </div>
             </CardBody>
